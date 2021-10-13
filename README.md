@@ -1,5 +1,5 @@
- ![enter image description here](https://ardasari.co/images/f39be97727c3193e8a86250fffdddf5b.png)
 
+ ![ardasari](https://imgyukle.com/f/2021/10/13/knnDz1.png)
 # **Hello Im Arda**
 >website https://ardasari.co<br>
 >discord server https://discord.gg/993WG4rAkG
