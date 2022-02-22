@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arda</h1>
-<h3 align="center">Frontend developer from Turkey</h3>
+<h1>Hi 👋, I'm Arda</h1>
+<h3>Frontend developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Javascript**
 
