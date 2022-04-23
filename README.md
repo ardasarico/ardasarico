@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Arda</h1>
 <h3>Frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **VueJS**
 
 - 👨‍💻 All of my projects are available at [https://ardasari.co](https://ardasari.co)
 
