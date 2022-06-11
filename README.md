@@ -14,7 +14,7 @@
 </table>
 <table>
   <tr>
-    <td>
+    <td colspan="1">
       <h4>Links</h4>
       <a href="https://instagram.com/ardasarico">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -29,8 +29,8 @@
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
       </a>
     </td>
-    <td>
-      <h4>Projects</h4>
+    <td colspan="1">
+      <img height="300px" src="https://bilimgenc.tubitak.gov.tr/sites/default/files/styles/yeryuzu-gokbilim-slider-gorseli/public/imparator_penguen_5_site.jpg?itok=EXG-QXjb">
     </td>
   </tr>
 </table>
