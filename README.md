@@ -30,7 +30,7 @@
       </a>
     </td>
     <td colspan="1">
-      <img height="300px" src="https://bilimgenc.tubitak.gov.tr/sites/default/files/styles/yeryuzu-gokbilim-slider-gorseli/public/imparator_penguen_5_site.jpg?itok=EXG-QXjb">
+      <img height="140px" src="https://imgyukle.com/f/2022/06/12/Vx5TsQ.png">
     </td>
   </tr>
 </table>
