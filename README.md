@@ -3,8 +3,8 @@
     <td>
       <h1>Who am I?</h1>
       <p>
-       Hi everyone, Im Arda, Junior Front-End developer.<br>
-       Every day I improve myself and learn new things.<br>
+       Hi everyone, Im Arda, Junior Front-End developer.
+       Every day I improve myself and learn new things.
       </p>
     </td>
     <td>
