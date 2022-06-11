@@ -30,7 +30,7 @@
       </a>
     </td>
     <td colspan="1">
-      <img height="140px" src="https://imgyukle.com/f/2022/06/12/Vx5TsQ.png">
+      <img height="140px" src="https://imgyukle.com/f/2022/06/12/Vx5Ytt.png">
     </td>
   </tr>
 </table>
