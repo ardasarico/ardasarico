@@ -15,6 +15,15 @@
 <table>
   <tr>
     <td>
+      <h4>Links</h4>
+      <a><img width="30" height="30" src="https://imgyukle.com/f/2022/06/12/Vxx4ix.png"></a>
+      <a><img width="30" height="30" src="https://imgyukle.com/f/2022/06/12/Vxxbyv.png"></a>
+      <a><img width="30" height="30" src="https://imgyukle.com/f/2022/06/12/VxxFmY.png"></a>
+      <a><img width="30" height="30" src="https://imgyukle.com/f/2022/06/12/VxxM40.png"></a>
+      <a><img width="30" height="30" src="https://imgyukle.com/f/2022/06/12/Vxx6l6.png"></a>
+    </td>
+    <td>
+      <h4>Projects</h4>
     </td>
   </tr>
 </table>
