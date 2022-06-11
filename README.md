@@ -8,17 +8,13 @@
       </p>
     </td>
     <td>
-      <img witdh="200px" src="https://github-readme-stats.vercel.app/api?username=ardasarico&&show_icons=true&theme=radical">
+      <img src="https://github-readme-stats.vercel.app/api?username=ardasarico&&show_icons=true&theme=radical">
     </td>
   </tr>
-  <tr>
-    <td colspan="2">asd</td>
-  <tr>
-  <tr>
-    <td colspan="2">asd</td>
-  <tr>
-  <tr>
-    <td colspan="2">asd</td>
-  <tr>
 </table>
-
+<table>
+  <tr>
+    <td>
+    </td>
+  </tr>
+</table>
