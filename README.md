@@ -10,9 +10,6 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=ardasarico&&show_icons=true&theme=radical">
     </td>
-    <td>
-      <img src="https://imgyukle.com/f/2022/06/12/VxCaqS.png">
-    </td>
   </tr>
 </table>
 
