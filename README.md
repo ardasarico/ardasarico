@@ -8,7 +8,7 @@
       </p>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ardasarico&&show_icons=true&theme=radical">
+      <img witdh="200px" src="https://github-readme-stats.vercel.app/api?username=ardasarico&&show_icons=true&theme=radical">
     </td>
   </tr>
 </table>
