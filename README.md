@@ -16,9 +16,7 @@
   <tr>
     <td>
       <h4>Links</h4>
-      <ul>
           <a href="https://instagram.com/ardasarico"><img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white"></a>
-      </ul>
     </td>
     <td>
       <h4>Projects</h4>
