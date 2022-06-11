@@ -14,5 +14,11 @@
   <tr>
     <td colspan="2">asd</td>
   <tr>
+  <tr>
+    <td colspan="2">asd</td>
+  <tr>
+  <tr>
+    <td colspan="2">asd</td>
+  <tr>
 </table>
 
