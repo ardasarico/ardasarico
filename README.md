@@ -16,7 +16,7 @@
   <tr>
     <td colspan="1">
       <h4>Links</h4>
-      <a href="https://instagram.com/ardasarico">
+      <a target="_blank" href="https://instagram.com/ardasarico">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
       </a>
       <a href="https://www.linkedin.com/in/arda-sar%C4%B1-019a29237/">
