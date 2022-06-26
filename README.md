@@ -30,7 +30,7 @@
       </a>
     </td>
     <td colspan="1">
-      <img height="115px" src="https://media0.giphy.com/media/zHokhPIy6lwas/200.gif">
+      <img height="250px" src="https://media0.giphy.com/media/zHokhPIy6lwas/200.gif">
     </td>
   </tr>
 </table>
