@@ -1,4 +1,4 @@
-![banner](/header.pn "banner")
+![banner](/header.png "banner")
 
 # _Developer from a blue dot in the universe_
 
